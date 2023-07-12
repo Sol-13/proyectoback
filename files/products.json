@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "product1",
+      "description": "description1",
+      "price": 1000,
+      "thumbnail": "url",
+      "code": "abc1",
+      "stock": 1000
+    },
+    {
+      "id": 2,
+      "title": "product2",
+      "description": "description2",
+      "price": 2000,
+      "thumbnail": "url",
+      "code": "abc2",
+      "stock": 200
+    },
+    {
+      "id": 3,
+      "title": "pizza",
+      "description": "horneada",
+      "price": 3000,
+      "thumbnail": "url",
+      "code": "abc3",
+      "stock": 300
+    }
+  ]
