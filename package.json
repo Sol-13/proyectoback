@@ -1,0 +1,25 @@
+{
+  "name": "proyectoback",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "desafio-2archivos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sol-13/proyectoback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sol-13/proyectoback/issues"
+  },
+  "homepage": "https://github.com/Sol-13/proyectoback#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodmeon": "^0.0.1-security"
+  }
+}
