@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "title": "product1",
+      "description": "description1",
+      "price": 1000,
+      "thumbnail": "url",
+      "code": "abc1",
+      "stock": 1000
+    },
+    {
+      "id": 2,
+      "title": "product2",
+      "description": "description2",
+      "price": 2000,
+      "thumbnail": "url",
+      "code": "abc2",
+      "stock": 200
+    },
+    {
+      "id": 3,
+      "title": "pizza",
+      "description": "horneada",
+      "price": 3000,
+      "thumbnail": "url",
+      "code": "abc3",
+      "stock": 300
+    }
+
+    {
+      "id": 4,
+      "title": "empanadas",
+      "description": "fritas",
+      "price": 4000,
+      "thumbnail": "url",
+      "code": "abc4",
+      "stock": 400
+    }
+
+    {
+      "id": 5,
+      "title": "cerveza",
+      "description": "helada",
+      "price": 5000,
+      "thumbnail": "url",
+      "code": "abc5",
+      "stock": 500
+    }
+
+    {
+      "id": 6,
+      "title": "vino",
+      "description": "reserva",
+      "price": 6000,
+      "thumbnail": "url",
+      "code": "abc6",
+      "stock": 600
+    }
+
+    {
+      "id": 7,
+      "title": "copa",
+      "description": "cristal",
+      "price": 7000,
+      "thumbnail": "url",
+      "code": "abc7",
+      "stock": 700
+    }
+
+    {
+      "id": 8,
+      "title": "mantel",
+      "description": "blanco",
+      "price": 8000,
+      "thumbnail": "url",
+      "code": "abc8",
+      "stock": 800
+    }
+
+    {
+      "id": 9,
+      "title": "silla",
+      "description": "blanca",
+      "price": 9000,
+      "thumbnail": "url",
+      "code": "abc9",
+      "stock": 900
+    }
+
+    {
+      "id": 10,
+      "title": "mesa",
+      "description": "cuadrada",
+      "price": 10000,
+      "thumbnail": "url",
+      "code": "abc10",
+      "stock": 1000
+    }
+
+  ]
